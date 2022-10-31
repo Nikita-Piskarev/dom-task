@@ -17,9 +17,9 @@ const CONSTANTS = {
 
 */
 
-const imgIcon = new Map([
-  ["facebook", 'assets/images/icons8-facebook-24.png'],
-  ["instagram", "assets/images/icons8-instagram-24.png"],
-  ["twitter", "assets/images/icons8-twitter-24.png"],
+const icon = new Map([
+  ["www.facebook.com", 'assets/images/icons8-facebook-24.png'],
+  ["www.instagram.com", "assets/images/icons8-instagram-24.png"],
+  ["twitter.com", "assets/images/icons8-twitter-24.png"],
 ]);
-console.log(imgIcon);
+
